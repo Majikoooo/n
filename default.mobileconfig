@@ -32,7 +32,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.0.103</string>
+			<string>192.168.0.102</string>
 			<key>ProxyServerPort</key>
 			<integer>7890</integer>
 			<key>ProxyType</key>
@@ -42,7 +42,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>GFW</string>
+	<string>悟空的代理文件</string>
 	<key>PayloadIdentifier</key>
 	<string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
 	<key>PayloadRemovalDisallowed</key>
